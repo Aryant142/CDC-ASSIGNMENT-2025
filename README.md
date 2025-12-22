@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0088-merge-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0867-transpose-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
