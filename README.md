@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0392-is-subsequence) |
+| [1021-remove-outermost-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1021-remove-outermost-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
