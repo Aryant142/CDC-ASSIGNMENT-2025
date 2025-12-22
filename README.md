@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0046-permutations) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0392-is-subsequence) |
