@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0560-subarray-sum-equals-k) |
 | [2404-most-frequent-even-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2404-most-frequent-even-element) |
@@ -97,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
