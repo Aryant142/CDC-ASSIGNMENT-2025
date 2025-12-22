@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0059-spiral-matrix-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0189-rotate-array) |
@@ -113,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
