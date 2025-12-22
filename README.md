@@ -38,7 +38,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0300-longest-increasing-subsequence) |
-| [0307-range-sum-query-mutable](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0307-range-sum-query-mutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0410-split-array-largest-sum) |
@@ -70,16 +69,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0560-subarray-sum-equals-k) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2404-most-frequent-even-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0169-majority-element) |
-| [0307-range-sum-query-mutable](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
@@ -204,7 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0647-palindromic-substrings) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1768-merge-strings-alternately) |
@@ -259,23 +256,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0098-validate-binary-search-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0279-perfect-squares) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0206-reverse-linked-list) |
@@ -300,16 +293,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
-| [0307-range-sum-query-mutable](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
-| [0307-range-sum-query-mutable](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -323,7 +315,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0146-lru-cache) |
-| [0307-range-sum-query-mutable](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0307-range-sum-query-mutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -331,25 +322,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0098-validate-binary-search-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0098-validate-binary-search-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0098-validate-binary-search-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
