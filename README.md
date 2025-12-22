@@ -74,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0059-spiral-matrix-ii) |
+| [1518-water-bottles](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1518-water-bottles) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
+| [1518-water-bottles](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1518-water-bottles) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
