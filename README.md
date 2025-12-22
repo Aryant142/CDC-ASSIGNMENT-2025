@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0146-lru-cache) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0145-binary-tree-postorder-traversal) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0145-binary-tree-postorder-traversal) |
