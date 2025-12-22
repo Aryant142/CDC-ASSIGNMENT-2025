@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0410-split-array-largest-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0132-palindrome-partitioning-ii) |
 | [0279-perfect-squares](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0647-palindromic-substrings) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0410-split-array-largest-sum) |
