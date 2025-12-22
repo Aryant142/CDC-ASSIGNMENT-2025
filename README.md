@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0131-palindrome-partitioning) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Matrix
 |  |
@@ -154,4 +155,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0131-palindrome-partitioning) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
