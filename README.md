@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0059-spiral-matrix-ii) |
 | [0169-majority-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2404-most-frequent-even-element) |
@@ -41,8 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
