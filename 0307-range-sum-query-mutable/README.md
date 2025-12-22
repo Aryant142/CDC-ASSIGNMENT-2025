@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst">307. Range Sum Query - Mutable</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, handle multiple queries of the following types:</p>
+<h2><a href="https://leetcode.com/problems/range-sum-query-mutable">307. Range Sum Query - Mutable</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, handle multiple queries of the following types:</p>
 
 <ol>
 	<li><strong>Update</strong> the value of an element in <code>nums</code>.</li>
