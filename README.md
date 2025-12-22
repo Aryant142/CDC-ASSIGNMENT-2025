@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1732-find-the-highest-altitude) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2404-most-frequent-even-element) |
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0875-koko-eating-bananas) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -304,19 +307,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
