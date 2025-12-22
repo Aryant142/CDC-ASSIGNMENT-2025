@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
 | [1518-water-bottles](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1518-water-bottles) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0287-find-the-duplicate-number) |
