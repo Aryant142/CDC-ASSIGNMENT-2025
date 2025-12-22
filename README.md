@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0189-rotate-array) |
