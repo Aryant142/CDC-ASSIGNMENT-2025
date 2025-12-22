@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0410-split-array-largest-sum) |
+| [0647-palindromic-substrings](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0647-palindromic-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Matrix
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0647-palindromic-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1768-merge-strings-alternately) |
 ## Greedy
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0647-palindromic-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1021-remove-outermost-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
