@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0279-perfect-squares) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
