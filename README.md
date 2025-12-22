@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1021-remove-outermost-parentheses) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
