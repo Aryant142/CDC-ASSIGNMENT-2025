@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0062-unique-paths) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0046-permutations) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0392-is-subsequence) |
