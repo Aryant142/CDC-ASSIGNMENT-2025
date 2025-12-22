@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0279-perfect-squares) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
