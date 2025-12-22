@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0047-permutations-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
