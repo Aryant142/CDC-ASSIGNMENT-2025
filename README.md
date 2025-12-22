@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0876-middle-of-the-linked-list) |
@@ -304,4 +306,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
