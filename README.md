@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1518-water-bottles) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
