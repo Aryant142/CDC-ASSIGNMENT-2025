@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0560-subarray-sum-equals-k) |
+| [0867-transpose-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0867-transpose-matrix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2404-most-frequent-even-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2404-most-frequent-even-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
@@ -82,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0867-transpose-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1518-water-bottles) |
 ## Math
 |  |
