@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Rolling Hash
 |  |
 | ------- |
