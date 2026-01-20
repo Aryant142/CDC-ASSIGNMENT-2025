@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2404-most-frequent-even-element) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Recursion
 |  |
 | ------- |
