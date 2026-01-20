@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0992-subarrays-with-k-different-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1732-find-the-highest-altitude) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0992-subarrays-with-k-different-integers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2404-most-frequent-even-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
