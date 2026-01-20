@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Recursion
 |  |
 | ------- |
