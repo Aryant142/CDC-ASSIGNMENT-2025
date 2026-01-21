@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0132-palindrome-partitioning-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0337-house-robber-iii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0279-perfect-squares) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0273-integer-to-english-words) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0132-palindrome-partitioning-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0392-is-subsequence) |
 | [0606-construct-string-from-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0606-construct-string-from-binary-tree) |
@@ -518,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
