@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -532,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0241-different-ways-to-add-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
