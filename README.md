@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1518-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0131-palindrome-partitioning) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## String
 |  |
 | ------- |
