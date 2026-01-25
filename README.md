@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2698-find-the-punishment-number-of-an-integer) |
+| [2939-maximum-xor-product](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2939-maximum-xor-product) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2939-maximum-xor-product](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2939-maximum-xor-product) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2939-maximum-xor-product](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2939-maximum-xor-product) |
 ## Prefix Sum
 |  |
 | ------- |
