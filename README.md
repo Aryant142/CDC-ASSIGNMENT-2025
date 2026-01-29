@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0992-subarrays-with-k-different-integers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1110-delete-nodes-and-return-forest) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0877-stone-game) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Matrix
 |  |
