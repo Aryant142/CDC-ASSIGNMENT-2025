@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0647-palindromic-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1545-find-kth-bit-in-nth-binary-string) |
