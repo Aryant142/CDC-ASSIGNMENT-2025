@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0992-subarrays-with-k-different-integers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1110-delete-nodes-and-return-forest) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0877-stone-game) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Matrix
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0875-koko-eating-bananas) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
