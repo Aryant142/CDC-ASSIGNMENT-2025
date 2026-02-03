@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2305-fair-distribution-of-cookies) |
 | [2404-most-frequent-even-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2404-most-frequent-even-element) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2305-fair-distribution-of-cookies](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2305-fair-distribution-of-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2305-fair-distribution-of-cookies](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2305-fair-distribution-of-cookies) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2939-maximum-xor-product](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2939-maximum-xor-product) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0131-palindrome-partitioning) |
+| [2305-fair-distribution-of-cookies](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2305-fair-distribution-of-cookies) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## String
 |  |
@@ -568,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
