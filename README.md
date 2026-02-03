@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Heap (Priority Queue)
