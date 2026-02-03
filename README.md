@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0779-k-th-symbol-in-grammar) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2305-fair-distribution-of-cookies) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0131-palindrome-partitioning) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2305-fair-distribution-of-cookies) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## String
@@ -576,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2305-fair-distribution-of-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 <!---LeetCode Topics End-->
