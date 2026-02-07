@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -592,8 +594,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
