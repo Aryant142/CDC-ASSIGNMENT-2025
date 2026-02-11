@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Linked List
 |  |
 | ------- |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0684-redundant-connection) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
