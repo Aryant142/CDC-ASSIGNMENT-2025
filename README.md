@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1110-delete-nodes-and-return-forest) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0743-network-delay-time) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Game Theory
 |  |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0743-network-delay-time) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2360-longest-cycle-in-a-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Topological Sort
@@ -617,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0685-redundant-connection-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
