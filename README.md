@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1631-path-with-minimum-effort](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0867-transpose-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1631-path-with-minimum-effort) |
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0875-koko-eating-bananas) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1631-path-with-minimum-effort](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2360-longest-cycle-in-a-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2360-longest-cycle-in-a-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2596-check-knight-tour-configuration) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2608-shortest-cycle-in-a-graph) |
@@ -574,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1631-path-with-minimum-effort) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Game Theory
 |  |
@@ -621,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0685-redundant-connection-ii) |
+| [1631-path-with-minimum-effort](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
