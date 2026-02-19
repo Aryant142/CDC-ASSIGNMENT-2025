@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0992-subarrays-with-k-different-integers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1110-delete-nodes-and-return-forest) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0493-reverse-pairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0918-maximum-sum-circular-subarray) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
 ## Sorting
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0918-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
@@ -639,4 +643,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1584-min-cost-to-connect-all-points) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
