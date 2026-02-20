@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [2963-count-the-number-of-good-partitions](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Hash Table
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2963-count-the-number-of-good-partitions](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2939-maximum-xor-product](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2939-maximum-xor-product) |
+| [2963-count-the-number-of-good-partitions](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2965-find-missing-and-repeated-values) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0062-unique-paths) |
+| [2963-count-the-number-of-good-partitions](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2963-count-the-number-of-good-partitions) |
 ## Design
 |  |
 | ------- |
