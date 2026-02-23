@@ -19,7 +19,7 @@ public:
     }
 
     bool checkValidGrid(vector<vector<int>>& grid) {
-        int n = grid.size();
+         int n = grid.size();
         if (grid[0][0] != 0) return false;
         return isvalid(grid, 0, 0, 0, n);  // Start with exp = 0
     }
