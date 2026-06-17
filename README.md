@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2261-k-divisible-elements-subarrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2305-fair-distribution-of-cookies](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2305-fair-distribution-of-cookies) |
 | [2404-most-frequent-even-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2404-most-frequent-even-element) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0992-subarrays-with-k-different-integers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1110-delete-nodes-and-return-forest) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2261-k-divisible-elements-subarrays) |
 | [2404-most-frequent-even-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2963-count-the-number-of-good-partitions) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1392-longest-happy-prefix) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2261-k-divisible-elements-subarrays) |
 ## String Matching
 |  |
 | ------- |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1392-longest-happy-prefix) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2261-k-divisible-elements-subarrays) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -626,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2261-k-divisible-elements-subarrays) |
 ## Bitmask
 |  |
 | ------- |
@@ -634,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2261-k-divisible-elements-subarrays) |
 ## Graph Theory
 |  |
 | ------- |
