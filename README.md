@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0992-subarrays-with-k-different-integers) |
+| [1052-grumpy-bookstore-owner](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1052-grumpy-bookstore-owner) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1110-delete-nodes-and-return-forest) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0992-subarrays-with-k-different-integers) |
+| [1052-grumpy-bookstore-owner](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1838-frequency-of-the-most-frequent-element) |
