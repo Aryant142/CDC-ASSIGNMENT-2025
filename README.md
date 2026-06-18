@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0992-subarrays-with-k-different-integers) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1052-grumpy-bookstore-owner) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1110-delete-nodes-and-return-forest) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/0410-split-array-largest-sum) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2939-maximum-xor-product](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2939-maximum-xor-product) |
 ## Prefix Sum
