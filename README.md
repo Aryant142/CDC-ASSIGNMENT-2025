@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2179-count-good-triplets-in-an-array) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Aryant142/CDC-ASSIGNMENT-2025/tree/master/2261-k-divisible-elements-subarrays) |
